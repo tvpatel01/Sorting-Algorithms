@@ -1,7 +1,7 @@
 # tremorsense program 
 # goal = find variation between each number, then the average
 
-raw_data = [2, 5, 2, 10, -2]
+raw_data = [3, 5, 2, 10, -2]
 total = 0
 counter = 0
 
