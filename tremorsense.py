@@ -1,5 +1,6 @@
 # tremorsense program 
-# goal = find variation between each number, then the average
+# goal = find variation between each number, then the average... 
+# edit goal = to find the variation between SETS within a set
 
 raw_data = [3, 5, 2, 10, -2]
 total = 0
