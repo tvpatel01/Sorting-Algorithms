@@ -1,6 +1,8 @@
 # bubblesort program 
 
-numbers = [2, 5, 1, 19, 0, -8]
+numbers = [2, 5, 1, 19, 0, -82]
+print(numbers)
+print('⬇')
 
 def bubble_sort(numbers):
     for i in range(0, len(numbers) - 1):
